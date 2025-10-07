@@ -10,7 +10,8 @@ This project is a simple Website built using HTML & CSS
 - Create a GitHub project that has 2 branches (Leen & Shaden)
 - Uploaded my website files (index & learn files) in Leen branch & Shaden
 - Create a pull request from Leen branch to main
-- prepared this report
+- Create Conflict Problem & Resolve 
+- prepared this report 
 
   # Screenshots
   here is a screenshot showing the main steps of this task :
