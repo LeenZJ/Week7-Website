@@ -60,31 +60,31 @@ After resolve the conflict the merge to the main was successful.
 
 - **Screenshots**
 
-- first merge was successful:
+  - first merge was successful:
 
 
-  <img src="fmer.png" alt="first mer" width="400"/>
+   <img src="fmer.png" alt="first mer" width="400"/>
 
-  - second merge shows conflit problem:
-
-
-   <img src="conm.png" alt="conflit problem" width="400"/>
-
-   - a resolve must apply:
+   - second merge shows conflit problem:
 
 
-  <img src="resolve.png" alt="resolve must apply" width="400"/>
+    <img src="conm.png" alt="conflit problem" width="400"/>
 
-  - resolve was successful:
-
-
-  <img src="resdon.png" alt="resolve was successfu" width="400"/>
+    - a resolve must apply:
 
 
-  - second merge was successful:
+   <img src="resolve.png" alt="resolve must apply" width="400"/>
+
+   - resolve was successful:
+
+
+   <img src="resdon.png" alt="resolve was successfu" width="400"/>
+
+
+   - second merge was successful:
 
   
-  <img src="m2don.png" alt="sec merge" width="400"/>
+   <img src="m2don.png" alt="sec merge" width="400"/>
 
   
 
