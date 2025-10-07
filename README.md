@@ -1,7 +1,10 @@
 # Week7-Website
 
 # Project overview 
-This project is a simple Website built using HTML & CSS
+This project is a simple Website built using HTML & CSS.
+The main goal of this project is to understand how to create branches and how merge and 
+resolve any problem.
+
 
 # Steps
 - visited the "Lovable AI tool" to explore examples and get an idea for my design 
