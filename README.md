@@ -13,28 +13,35 @@ This project is a simple Website built using HTML & CSS
 
   # Screenshots
   here is a screenshot showing the main steps of this task :
-  - website:
+  - **website:**
  
     
   <img src="website 1.png" alt="web" width="200"/> ,  <img src="website 2.png" alt="web" width="200"/>
 
   
-  - codes:
+  - **codes:**
  
 
   <img src="code (1).png" alt="web" width="200"/> ,  <img src="code (2).png" alt="web" width="200"/>
 
 
-  - branches:
+  - **branches:**
     
  
     <img src="Branches sc.png" alt="web" width="200"/>
 
 
-  - my branch
+  - **my branch:**
 
 
-        <img src="code on my Branche.png" alt="web" width="200"/>
+     <img src="code on my Branche.png" alt="web" width="200"/>
+
+
+
+# Tools Used
+- visual studio code (VS)
+- Lovable
+- GitHub
 
    
     
