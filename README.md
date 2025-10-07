@@ -14,5 +14,6 @@ This project is a simple Website built using HTML & CSS
   # Screenshots
   here is a screenshot showing the main steps of this task :
   - website:
+  <img src="website 1.png" alt="web" width="200"/> ,  <img src="website 2.png" alt="web" width="200"/>
   - 
   
