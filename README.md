@@ -7,8 +7,8 @@ This project is a simple Website built using HTML & CSS
 - visited the "Lovable AI tool" to explore examples and get an idea for my design 
 - build a simple website using HTML & CSS
 - Create a GitHub repository called "Week7-Website" 
-- Create a GitHub project that has 2 branches
-- Uploaded my website files (index & learn files) in Leen branch
+- Create a GitHub project that has 2 branches (Leen & Shaden)
+- Uploaded my website files (index & learn files) in Leen branch & Shaden
 - Create a pull request from Leen branch to main
 - prepared this report
 
